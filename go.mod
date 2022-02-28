@@ -1,4 +1,4 @@
-module eric
+module golflick
 
 go 1.17
 
